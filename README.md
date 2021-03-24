@@ -1,6 +1,7 @@
 # CREC-Reserve-Bot
 
 This bot will automatically reserve a time slot for the city rec at which ever time you chose.
+
 Important Note: You will recieve a duo push at 12 pm every time you want to reserve, you must accept this before it timeouts after 1 minute
 
 # Installation:
