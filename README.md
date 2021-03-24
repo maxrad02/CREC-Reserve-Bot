@@ -4,6 +4,7 @@ This bot will automatically reserve a time slot for the city rec at which ever t
 Important Note: You will recieve a duo push at 12 pm every time you want to reserve, you must accept this before it timeouts after 1 minute
 
 # Installation:
+If unsure on any of these steps, follow this link: https://selenium-python.readthedocs.io/installation.html
 
   1. You must install python if you do not already have it 
     - Download link: https://www.python.org/downloads/
